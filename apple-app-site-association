@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "2XRAH3ML7C.by.mrDeadlinez.Linella",
-                "paths": ["/invite"]
+                "paths": ["/invite", "*"]
             }
         ]
     }
